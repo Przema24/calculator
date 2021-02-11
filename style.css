@@ -50,4 +50,5 @@ input[type="text"] {
 
 .cal-btn:hover, .submit-btn:hover, .reset:hover {
     opacity: 80%;
+    cursor: pointer;
 }
